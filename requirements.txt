@@ -1,0 +1,22 @@
+# Core Deep Learning Framework
+torch
+
+# Tokenizer
+tiktoken
+
+# Numerical Ops & Data Manipulation
+numpy
+pandas
+
+# Hugging Face Libraries
+datasets # For downloading FineWeb-Edu
+transformers # For HellaSwag baseline evaluation
+
+# Utilities
+tqdm # Progress bars
+requests # For downloading HellaSwag data & GPT-2 weights
+matplotlib # For plotting loss/accuracy
+
+# Optional Dependencies
+tensorflow # Needed ONLY for loading original OpenAI GPT-2 TensorFlow checkpoints
+psutil # Needed ONLY for checking if the Ollama process is running in finetune_instruction.py
