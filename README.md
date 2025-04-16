@@ -223,7 +223,3 @@ This script adapts the pre-trained GPT-2 model for SMS spam classification.
 - Implement distributed training for larger models/datasets.
 - Develop a simple API (e.g., using FastAPI) to serve the fine-tuned models.
 - Expand evaluation suites (e.g., ROUGE scores for summarization, BLEU for translation if applicable tasks are added).
-
-```
-
-```
